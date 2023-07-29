@@ -49,7 +49,7 @@ Here 'input' tag is used with type = color
 >
 ![4](https://github.com/aditya7447/Assignment-3-Form/assets/85671986/c4e89b9f-50b5-4d42-a35e-acd67d32f491)
 #
-Here 'input' tag is used with type = button
+Here for Reset Button 'input' tag is used with type = reset and for Submit Button 'input' tag is used with type = button 
 >
 ![3](https://github.com/aditya7447/Assignment-3-Form/assets/85671986/02cd4e5d-e0a0-4d6e-8ce7-4ced6fb172a2)
 
